@@ -1,10 +1,12 @@
-# Distributed-Work-Reward-Mechanism
-The repository for our voted 'Catalyst Fund 6' proposal: Distributed Work Reward Mechanism
+# Project Catalyst Proposals
+The repository for our funded Catalyst proposals
 
-## Project Board
+## Funded Proposal #1: Distributed Work Reward Mechanism
+
+### Project Board
 [View the project board here](LINK)
 
-## Documentation
+### Documentation
 [Read about it in our GitBook](LINK)
 
 ### Proposal Link
