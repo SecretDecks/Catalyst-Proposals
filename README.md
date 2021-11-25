@@ -1,26 +1,12 @@
-# Project Catalyst Proposals
-The repository for our funded Catalyst proposals
+---
+description: This is the documentation for our Fund 6 proposal
+coverY: 0
+---
 
-## Funded Proposal #1: Distributed Work Reward Mechanism
+# Welcome!
 
-### Project Board
-[View the project board here](LINK)
+## :link: [Distributed Work Reward Mechanism](https://cardano.ideascale.com/a/dtd/Distributed-Work-Reward-Mechanism/368091-48088)
 
-### Documentation
-[Read about it in our GitBook](LINK)
+## Welcome aboard!
 
-### Proposal Link
-[The Catalyst Fund 6 proposal](https://cardano.ideascale.com/a/dtd/Distributed-Work-Reward-Mechanism/368091-48088)
-
-### KPIs
-#### Sentiment Analysis
-- Leading KPI: Create & Distribute 1 sentiment poll per month
-- Lagging KPI: have SourCecred running and distribute Cred, take a sentiment vote on how much the community feels the distribution is fair; vote should be 75% (or more?) positive
-- Future leading KPI: Create GitBook chapter with sentiment poll template
-####Adoption
-- Leading KPI: setup 1 SC instances per month including onboarding workshop
-- Lagging KPI: 1 organisation per month is adopting SC without asking for help after the workshop
-
-#### Tangible deliverables
-- Leading KPI: Documentation template; each month 33% of content is delivered: setup documentation for our case study, publish config, demo usage, update with tweaks
-- Lagging KPI: adoption rate is increasing our support rate is decreasing (ratio) 
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
