@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # How we (want to) vote
 
 #### Status Quo
