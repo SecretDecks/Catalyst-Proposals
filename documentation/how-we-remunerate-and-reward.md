@@ -1,3 +1,8 @@
+---
+cover: '../.gitbook/assets/Deep Vision #01423 .png'
+coverY: 0
+---
+
 # How we remunerate & reward
 
 #### Remuneration of pro bono & livelihood Work
@@ -16,3 +21,4 @@ Anyone that has accrued more than **42 Can-D **by end of November is eligible fo
 
 This threshold and amount of ADA can and should be changed if need be (for example if sentiment tests show negative scores).  The goal is to keep engagement high. How much it shall be changed will be voted upon by the <mark style="color:purple;">core</mark> and <mark style="color:green;">initiates</mark> (with different voting weight).&#x20;
 
+### [**Check out the Can-D leaderboard here**](https://secretdecks.github.io/SCinstance/#/explorer)** **
