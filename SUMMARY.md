@@ -1,25 +1,7 @@
 # Table of contents
 
-* [Welcome!](README.md)
-
-## The Proposal
-
-* [Overview](the-proposal/overview.md)
-* [Meet the Team!](the-proposal/meet-the-team.md)
-* [Proposal Details](the-proposal/proposal-details.md)
-* [KPIs](the-proposal/kpis.md)
-
-## Documentation
-
-* [How we do stuff](documentation/how-we-do-stuff.md)
-* [How we (want to) vote](documentation/how-we-want-to-vote.md)
-* [How we remunerate & reward](documentation/how-we-remunerate-and-reward.md)
-* [How we track contributions](documentation/how-we-track-contributions.md)
-* [SourceCred Setup & Config](documentation/sourcecred-setup-and-config.md)
-
-## Progress Report
-
-* [Dashboard](progress-report/dashboard.md)
-* [KPI set I](progress-report/kpi-set-i.md)
-* [KPI Set II](progress-report/kpi-set-ii.md)
-* [KPI Set III](progress-report/kpi-set-iii.md)
+* [Proposal 1](README.md)
+  * [Overview](proposal-1/overview.md)
+  * [Meet the Team](proposal-1/meet-the-team.md)
+  * [Proposal Details](proposal-1/proposal-details.md)
+  * [KPIs](proposal-1/kpis.md)
