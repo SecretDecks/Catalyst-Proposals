@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Proposal 1](README.md)
-  * [Overview](proposal-1/overview.md)
-  * [Meet the Team](proposal-1/meet-the-team.md)
-  * [Proposal Details](proposal-1/proposal-details.md)
-  * [KPIs](proposal-1/kpis.md)
+* [Enhance Automated Self Reporting](README.md)
+  * [Overview](enhance-automated-self-reporting/overview.md)
+  * [Meet the Team](enhance-automated-self-reporting/meet-the-team.md)
+  * [Proposal Details](enhance-automated-self-reporting/proposal-details.md)
+  * [KPIs](enhance-automated-self-reporting/kpis.md)

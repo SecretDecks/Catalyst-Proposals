@@ -1,2 +1,2 @@
-# Proposal 1
+# Enhance Automated Self Reporting
 
