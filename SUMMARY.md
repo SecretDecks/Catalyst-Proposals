@@ -19,6 +19,7 @@
 
 ## Progress Report
 
+* [Dashboard](progress-report/dashboard.md)
 * [KPI set I](progress-report/kpi-set-i.md)
 * [KPI Set II](progress-report/kpi-set-ii.md)
 * [KPI Set III](progress-report/kpi-set-iii.md)
