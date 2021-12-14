@@ -15,6 +15,7 @@
 * [How we (want to) vote](documentation/how-we-want-to-vote.md)
 * [How we remunerate & reward](documentation/how-we-remunerate-and-reward.md)
 * [How we track contributions](documentation/how-we-track-contributions.md)
+* [SourceCred Setup & Config](documentation/sourcecred-setup-and-config.md)
 
 ## Progress Report
 

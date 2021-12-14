@@ -6,9 +6,9 @@ coverY: 0
 
 # How we do stuff
 
-**For more information on what SeretDecks is **[**click here**](https://secretdecks.gitbook.io/arcana/introduction/who-and-what-is-secretdecks#what-is-secretdecks)****
+**For more information on what SeretDecks is** [**click here**](https://secretdecks.gitbook.io/arcana/introduction/who-and-what-is-secretdecks#what-is-secretdecks)****
 
-****[**Short summary**](https://secretdecks.gitbook.io/arcana/introduction/who-and-what-is-secretdecks#what-is-a-disco)** on what a DisCo means to us.**
+****[**Short summary**](https://secretdecks.gitbook.io/arcana/introduction/who-and-what-is-secretdecks#what-is-a-disco) **on what a DisCo means to us.**
 
 ### **Onboarding & Tiers**
 
