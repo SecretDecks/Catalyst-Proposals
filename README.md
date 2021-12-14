@@ -1,6 +1,7 @@
 ---
 description: This is the documentation for our Fund 6 proposal
 coverY: 0
+cover: .gitbook/assets/entheos.jpeg
 ---
 
 # Welcome!
