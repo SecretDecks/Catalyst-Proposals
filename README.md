@@ -1,13 +1,10 @@
 ---
-description: >-
-  This is the SecretDecks documentation and reporting source for Catalyst
-  Proposals
+description: This is the documentation for our Fund 6 proposal
+coverY: 0
 ---
 
-# Welcome
+# Welcome!
 
-### [FUND 6](https://app.gitbook.com/o/-MfDTnOgoM06oJZx1HD0/s/MtUIYuMvwfJqYgejgniN/)
+## :link: [Distributed Work Reward Mechanism](https://cardano.ideascale.com/a/dtd/Distributed-Work-Reward-Mechanism/368091-48088)
 
-### [FUND 7](https://app.gitbook.com/o/-MfDTnOgoM06oJZx1HD0/s/6C0gfT2PJ53g1vUj7L3Z/)
-
-### [ARCANA GitBook](https://app.gitbook.com/o/-MfDTnOgoM06oJZx1HD0/s/-MfDUiLbMuCsJLL9U2ZQ/)
+#### Looking for Fund 7 props? [Go here](https://app.gitbook.com/o/-MfDTnOgoM06oJZx1HD0/s/6C0gfT2PJ53g1vUj7L3Z/)
