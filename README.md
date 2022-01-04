@@ -10,6 +10,6 @@ cover: .gitbook/assets/entheos.jpeg
 
 ### [Proposal Overview](the-proposal/overview.md)
 
-### [Progress Report Dashboard](progress-report/dashboard.md)
+### [Progress Report Dashboard](progress-report/impact-dashboard.md)
 
 #### Looking for Fund 7 props? [Go here](https://app.gitbook.com/o/-MfDTnOgoM06oJZx1HD0/s/6C0gfT2PJ53g1vUj7L3Z/)
