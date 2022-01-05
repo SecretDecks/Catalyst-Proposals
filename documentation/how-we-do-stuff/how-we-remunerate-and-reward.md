@@ -1,5 +1,5 @@
 ---
-cover: '../.gitbook/assets/Deep Vision #01423 .png'
+cover: '../../.gitbook/assets/Deep Vision #01423 .png'
 coverY: 0
 ---
 

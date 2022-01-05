@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/fluidperceptions.jpeg
+cover: ../../.gitbook/assets/fluidperceptions.jpeg
 coverY: 0
 ---
 
@@ -9,7 +9,7 @@ coverY: 0
 
 [SourceCred](https://www.sourcecred.io) is deployed on our GitHub and is setup to track engagement on Discord and Git(Hub). The engagement generates **CanD** (_SourceCred:_ _Cred_).&#x20;
 
-![](<../.gitbook/assets/Screenshot 2021-12-14 at 12.38.35.png>)
+![](<../../.gitbook/assets/Screenshot 2021-12-14 at 12.38.35.png>)
 
 ### Tangibles
 

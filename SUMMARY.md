@@ -1,7 +1,25 @@
 # Table of contents
 
-* [Enhance Automated Self Reporting](README.md)
-  * [Overview](enhance-automated-self-reporting/overview.md)
-  * [Meet the Team](enhance-automated-self-reporting/meet-the-team.md)
-  * [Proposal Details](enhance-automated-self-reporting/proposal-details.md)
-  * [KPIs](enhance-automated-self-reporting/kpis.md)
+* [Welcome!](README.md)
+
+## The Proposal
+
+* [Overview](the-proposal/overview.md)
+* [Meet the Team!](the-proposal/meet-the-team.md)
+* [Proposal Details](the-proposal/proposal-details.md)
+* [KPIs](the-proposal/kpis.md)
+
+## Documentation
+
+* [How we do stuff](documentation/how-we-do-stuff/README.md)
+  * [How we (want to) vote](documentation/how-we-do-stuff/how-we-want-to-vote.md)
+  * [How we remunerate & reward](documentation/how-we-do-stuff/how-we-remunerate-and-reward.md)
+  * [How we track contributions](documentation/how-we-do-stuff/how-we-track-contributions.md)
+* [SourceCred Setup & Config](documentation/sourcecred-setup-and-config.md)
+
+## Progress Report
+
+* [Impact Dashboard](progress-report/impact-dashboard.md)
+* [KPI set I](progress-report/kpi-set-i.md)
+* [KPI Set II](progress-report/kpi-set-ii.md)
+* [KPI Set III](progress-report/kpi-set-iii.md)

@@ -20,8 +20,8 @@ A poll can be cast by <mark style="color:green;">Initiates</mark> or <mark style
 
 Each member is attributed (voting) power on a merit basis. A basic polling system is in place and will soon be extended with a blockchain recorded voting process. Distributed decision making tools and processes will be piloted and iterated until comprehensive parts can be published under OpenSource licenses.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 #### How Decisions should flow
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
