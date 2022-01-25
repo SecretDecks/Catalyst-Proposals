@@ -17,7 +17,7 @@ Currently an [issue template](https://github.com/SecretDecks/Documentation/issue
 
 Interactions on our communication and coordination platforms (Discord and GitHub) is being tracked by [SourceCred](https://sourcecred.io), an OpenSource engagement tracker for self organising communities. More on that on the [next page](how-we-track-contributions.md). The engagement is visualised as a social currency we coined _Can-D._ Anyone that joins is accruing Can-D when interacting with one another.&#x20;
 
-Anyone that has accrued more than **42 Can-D** by end of November is eligible for an ADA airdrop! We'll evenly distribute **200 ADA** (around 5% of our F6 funds) to everyone on or above the **42 Can-D** threshold.&#x20;
+Anyone that has accrued more than **78 Can-D** by end of November is eligible for an ADA airdrop! We'll evenly distribute about **234 ADA** (13% of our funded contributions) to everyone on or above the **78 Can-D** threshold.&#x20;
 
 This threshold and amount of ADA can and should be changed if need be (for example if sentiment tests show negative scores).  The goal is to keep engagement high. How much it shall be changed will be voted upon by the <mark style="color:purple;">core</mark> and <mark style="color:green;">initiates</mark> (with different voting weight).&#x20;
 
