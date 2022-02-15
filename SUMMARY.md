@@ -20,6 +20,6 @@
 ## Progress Report
 
 * [Impact Dashboard](progress-report/impact-dashboard.md)
-* [KPI set I](progress-report/kpi-set-i.md)
-* [KPI Set II](progress-report/kpi-set-ii.md)
-* [KPI Set III](progress-report/kpi-set-iii.md)
+* [KPI set I (success)](progress-report/kpi-set-i-success.md)
+* [KPI Set II (ongoing)](progress-report/kpi-set-ii-ongoing.md)
+* [KPI Set III (ongoing)](progress-report/kpi-set-iii-ongoing.md)
