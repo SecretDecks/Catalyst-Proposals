@@ -6,6 +6,8 @@ Can be found [here by SourceCred](https://sourcecred.io/docs/beta/setup-guide) d
 
 ## The copy of our Discord config&#x20;
 
+#### The channel ID's can be found within Discord (right click on a given channel and select 'ID') and need to be adapted!
+
 _**default location:** SCinstance/config/plugins/sourcecred/discord/config.json_
 
 ```
