@@ -20,6 +20,7 @@
 ## Progress Report
 
 * [Impact Dashboard](progress-report/impact-dashboard.md)
-* [KPI set I (success)](progress-report/kpi-set-i-success.md)
+* [KPI set I (success)](progress-report/kpi-set-i-success/README.md)
+  * [Sentiment Survey Template](progress-report/kpi-set-i-success/sentiment-survey-template.md)
 * [KPI Set II (ongoing)](progress-report/kpi-set-ii-ongoing.md)
 * [KPI Set III (ongoing)](progress-report/kpi-set-iii-ongoing.md)
