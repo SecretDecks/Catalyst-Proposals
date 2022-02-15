@@ -25,3 +25,7 @@
   * [Sentiment Survey Template](progress-report/kpi-set-i-success/sentiment-survey-template.md)
 * [KPI Set II (ongoing)](progress-report/kpi-set-ii-ongoing.md)
 * [KPI Set III (ongoing)](progress-report/kpi-set-iii-ongoing.md)
+
+***
+
+* [Final Report](final-report.md)
