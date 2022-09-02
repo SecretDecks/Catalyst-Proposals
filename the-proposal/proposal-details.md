@@ -147,6 +147,6 @@ This pilot is driven within SecretDecks DisCo - DisCo stands for Distributed Col
 
 ### **🔗 References**
 
-SecretDecks has a website at [https://www.secretdecks.com/](https://www.secretdecks.com) and is developing an "Arcana" GitBook at [https://secretdecks.gitbook.io/arcana/](https://secretdecks.gitbook.io/arcana/) .
+SecretDecks has a website at [https://www.secretdecks.com/](https://www.secretdecks.com/) and is developing an "Arcana" GitBook at [https://secretdecks.gitbook.io/arcana/](https://secretdecks.gitbook.io/arcana/) .
 
 News and updates are posted on our Twitter at [https://twitter.com/SecretDecks](https://twitter.com/SecretDecks) .

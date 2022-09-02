@@ -15,7 +15,7 @@ Currently an [issue template](https://github.com/SecretDecks/Documentation/issue
 
 #### Rewarding Community Care Work
 
-Interactions on our communication and coordination platforms (Discord and GitHub) is being tracked by [SourceCred](https://sourcecred.io), an OpenSource engagement tracker for self organising communities. More on that on the [next page](how-we-track-contributions.md). The engagement is visualised as a social currency we coined _Can-D._ Anyone that joins is accruing Can-D when interacting with one another.&#x20;
+Interactions on our communication and coordination platforms (Discord and GitHub) is being tracked by [SourceCred](https://sourcecred.io/), an OpenSource engagement tracker for self organising communities. More on that on the [next page](how-we-track-contributions.md). The engagement is visualised as a social currency we coined _Can-D._ Anyone that joins is accruing Can-D when interacting with one another.&#x20;
 
 Anyone that has accrued more than **78 Can-D** by end of November is eligible for an ADA airdrop! We'll evenly distribute about **234 ADA** (13% of our funded contributions) to everyone on or above the **78 Can-D** threshold.&#x20;
 
